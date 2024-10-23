@@ -1,3 +1,5 @@
+
+
 <!--
   <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
@@ -75,3 +77,5 @@ Next lets add some code to run upon creation of the codespace!
 1. Verify your codespace is running, as you did previously.
 1. Verify the `codespace.md` file now has the text `Writing code upon codespace creation!`.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+
